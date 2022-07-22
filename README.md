@@ -1,7 +1,7 @@
 
 - Basics: HTML, CSS
 
-- Components: Material UI
+- Components: Material UI, Syncfusion
 
 - Framework: React
 
