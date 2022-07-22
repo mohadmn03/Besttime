@@ -7,4 +7,4 @@
 
 - Context: Redux (soon)
 
-- Backend: Node.JS, Subabase, Firebase (soon)
+- Backend: NodeJS, Subabase, Firebase (soon)
